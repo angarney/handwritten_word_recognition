@@ -3,7 +3,7 @@
 Paper forms are frequently used for government purposes. ~115,000 handwritten word images were explored to create a neural network to read handwriting. The purpose of this would be to provide increase accuracy and ineffiency in the processing of paper forms. A Convolutional Neural Network was created.
 
 The following resources can be found in this repository:
-* [CNN Workflow](https://github.com/angarney/Deep_Learning_Project/blob/main/Project%20Development/cnn_workflow.ipynb)
+* [CNN Workflow (colab)](https://github.com/angarney/Deep_Learning_Project/blob/main/Project%20Development/cnn_workflow.ipynb)
 * [XML Database Extraction](https://github.com/angarney/Deep_Learning_Project/blob/main/Project%20Development/xml_file_scraping.ipynb)
 
 ## Design
