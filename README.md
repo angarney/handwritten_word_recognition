@@ -1,4 +1,4 @@
-# Deep_Learning_Project
+# Improving Government Form Processing Time with Handwritten Word Recognition
 
 Paper forms are frequently used for government purposes. ~115,000 handwritten word images were explored to create a neural network to read handwriting. The purpose of this would be to provide increase accuracy and ineffiency in the processing of paper forms. A Convolutional Neural Network was created.
 
