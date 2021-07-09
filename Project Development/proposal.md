@@ -3,7 +3,7 @@
 **Question/Need: What is the framing question of your analysis, or the purpose of the model/system you plan to build? Who benefits from exploring this question or building this model/system?**  
 
 Framing Question:
-* Problem: Although technology platform are increasingly quickly, often government forms continue to be paper based for both accessibility and scale reasons. Paper forms increase the risk for lost information and slower processing times.
+* Problem: Although technology platform are increasingly quickly, often government forms continue to be paper forms. Paper forms increase the risk for lost information and slower processing times.
 * Data Science Solution Path: Design a neural network algorithm that takes in a handwritten words and converts them to text representation.
 * Initial Impact Hypothesis: Technology to read and convert handwritten text will increase the processing time of paper forms. 
 * Measures of success, both technical and non-technical: Quicker processing time, high accuracy in converting written information. 
